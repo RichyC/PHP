@@ -1,8 +1,6 @@
 <?php
 /*
  * Richy Eduardo Castro
- * Hw05
- * https://itec-php01.radford.edu/rcastro2/itec325/hw05/utils.php
  */
 /*
  * hyperlink : string, string or boolean -> HTML code for a hyperlink
